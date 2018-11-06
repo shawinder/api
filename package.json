@@ -16,7 +16,7 @@
     "async": "^2.3.0",
     "aws-sdk": "^2.70.0",
     "babel-cli": "^6.24.1",
-    "bluebird": "^3.4.7",
+    "bluebird": "^3.5.3",
     "body-parser": "^1.16.0",
     "compression": "^1.6.2",
     "cors": "^2.8.1",
